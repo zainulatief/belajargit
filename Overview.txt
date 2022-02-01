@@ -5,4 +5,6 @@ Apa saja yang sudah dicoba:
     -> Menampilkan leaflet
     -> Menggabungkan hasil qgis2web
 -> Kenalan dengan Git dan Github
-    -> belajar materi WPU tentang Git
+    -> Belajar materi WPU tentang Git
+    -> Belajar branch
+    -> Menambah branch
