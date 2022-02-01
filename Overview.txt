@@ -8,3 +8,5 @@ Apa saja yang sudah dicoba:
     -> Belajar materi WPU tentang Git
     -> Belajar branch
     -> Menambah branch
+    -> Merge branch dan pull req
+    -> Menghapus branch
