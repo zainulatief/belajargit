@@ -3,4 +3,6 @@ Apa saja yang sudah dicoba:
 -> Memanfaatkan template bootstrap5
 -> Membuat web profil Kapanewon Mlati
     -> Menampilkan leaflet
+    -> Menggabungkan hasil qgis2web
 -> Kenalan dengan Git dan Github
+    -> belajar materi WPU tentang Git
